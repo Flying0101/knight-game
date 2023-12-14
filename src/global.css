@@ -1,0 +1,10 @@
+
+
+#scene-ground{ 
+    background-color:  #607f09;
+    height: 30px;
+    width: 100%;
+    z-index: 999;
+    position: absolute;
+    bottom: 0;
+}
