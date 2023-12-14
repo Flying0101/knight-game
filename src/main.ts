@@ -5,8 +5,8 @@ import HelloWorldScene from './HelloWorldScene'
 const config: Phaser.Types.Core.GameConfig = {
 	type: Phaser.AUTO,
 	parent: 'app',
-	width: 800,
-	height: 600,
+	width: 1910,
+	height: 980,
 	physics: {
 		default: 'arcade',
 		arcade: {
